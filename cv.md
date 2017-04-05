@@ -32,7 +32,15 @@ email: yury.kotlyarov@gmail.com
     * Developing syntetic statistics to range soccer players according to exactness, quickness, and played balls count
     * Leading C Developers: managing requirements, tasks, code review
 
-* __02/2016-05/2016__ Ruby on Rails Developer at hobby/fun project [CyberStor.es](http://cyberstor.es)  
+* [side project] __12/2016-02/2017__ Ruby on Rails Developer for [TESS Technology](http://tesstech.ru/)  
+  __project__: Online analytic systems to calculate financial metrics of touristic investment projects for Far East of Russia [kamchatka.tesstech.ru](http://kamchatka.tesstech.ru)  
+  __langs/techs__: Ruby on Rails 4.2, Liquid, MySQL, RSpec, Cucumber  
+  __team__: just me  
+  __duties__: 
+    * Developing SaaS platform which allows to create customizable online shops with ease
+    * Placing [Magnolia Bakery](http://magnoliabakery.ru) on the platform
+    
+* [side project] __02/2016-05/2016__ Ruby on Rails Developer at hobby/fun project [CyberStor.es](http://cyberstor.es)  
   __project__: Try to enter to the market of online shopping platform with simple SaaS platform for small online shops  
   __langs/techs__: Ruby on Rails 4.2, Liquid, MySQL, RSpec, Cucumber  
   __team__: just me  
