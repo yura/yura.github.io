@@ -50,6 +50,8 @@ email: yury.kotlyarov@gmail.com
     * Developing SaaS platform which allows to create customizable online shops with ease
     * Placing [Magnolia Bakery](http://magnoliabakery.ru) on the platform
     
+ * __01/2014-03/2015__ [BrainHouse CRM](http://crm.brainhouse.ru) - small CRM. _Rails 4.0, MySQL, Flickr API, Sunspot/Solr, Google Maps API_
+ 
  * __12/2013-01/2014__ [Photo Heritage](http://ptm.brainhouse.ru) - a prototype for photo digitization startup. _Rails 4.0, MySQL, Flickr API, Sunspot/Solr, Google Maps API_
  
  
