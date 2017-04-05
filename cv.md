@@ -1,7 +1,39 @@
 # Yury Kotlyarov
 
 github: [github.com/yura](http://github.com/yura)  
-linkedin: [https://www.linkedin.com/in/yury-kotlyarov-a8a6b24](https://www.linkedin.com/in/yury-kotlyarov-a8a6b24)  
+linkedin: [www.linkedin.com/in/yury-kotlyarov-a8a6b24](https://www.linkedin.com/in/yury-kotlyarov-a8a6b24)  
 skype: yura__115  
 phone: +7 965 823 3843 (mobile)  
 email: yury.kotlyarov@gmail.com  
+
+
+## summary of qualifications
+
+* Team leading
+* Requirements management
+* Planning
+* Budgeting
+* Project documentation development
+* Task management
+* Object-oriented analysis and design
+* Strong experience in the developing distributed multi-tier software for Internet/intranet environments based using Java/J2EE and Ruby on Rails
+* Customer focused, self-motivated, hard-working team player
+
+
+
+## education
+
+* 1998–2000	[Moscow State University](http://www.msu.ru/en), Moscow, Russia
+  [Computational Mathematics and Cybernetics Department](http://cs.msu.ru/en)
+  Master's Degree in Computer Science
+  Thesis: "Semi-structured Data Processing" 
+  at the [Laboratory for Compositional Information Systems Development Methods](http://synthesis.ipi.ac.ru/synthesis),
+  [Institute of Informatics Problems](http://www.ipiran.ru/english/main.asp) of the Russian Academy of Sciences
+
+* 1993-1998	Altai State Technical University, Barnaul, Russia
+  Department of Information Technologies and Business
+  B. B. A. in Management
+
+## languages
+
+Active: English, Russian (native)
