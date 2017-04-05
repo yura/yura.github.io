@@ -49,7 +49,10 @@ email: yury.kotlyarov@gmail.com
   __duties__: 
     * Developing SaaS platform which allows to create customizable online shops with ease
     * Placing [Magnolia Bakery](http://magnoliabakery.ru) on the platform
-   
+    
+ * __12/2013-01/2014__ [Photo Heritage](http://ptm.brainhouse.ru) - a prototype for photo digitization startup
+ 
+ 
 
 ## education
 
