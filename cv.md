@@ -27,7 +27,7 @@ email: yury.kotlyarov@gmail.com
   __langs/techs__: Ruby on Rails 4.2-5.0, MySQL, Redis (for Sidekiq and Action Cable), a bit of RSpec  
   __team__: 1 Ruby on Rails Developer, 5-6 C Developers for ARM Cortex  
   __duties__: 
-    * Leading C Developers: manage requirements, tasks, code review
+    * Leading C Developers: managing requirements, tasks, code review
     * Developing Training System control center using Ruby on Rails 4.2-5.0
     
 
