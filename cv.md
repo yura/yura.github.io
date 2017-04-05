@@ -60,7 +60,7 @@ email: yury.kotlyarov@gmail.com
  
  * WIP...
  
- * 2006 [Railfrog CMS](@railfrog) 
+ * 2006 @railfrog 
  
  * **Java Age**
  
