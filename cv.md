@@ -24,13 +24,13 @@ email: yury.kotlyarov@gmail.com
 
 * __since 09/2015__ Co-founder, Ruby on Rails and C Developer at [Sport Automatics](http://footbot.eu)  
   __project__: Robotic Training System for Soccer Players [youtu.be/3ham_3GmhLk](https://youtu.be/3ham_3GmhLk)  
-  __langs/techs__: Ruby on Rails 4.2-5.0, MySQL, Redis (for Sidekiq and Action Cable), a bit of RSpec  
+  __langs/techs__: Ruby on Rails 4.2-5.0, MySQL, Redis (for Sidekiq and Action Cable), a bit of RSpec, C for ARM  
   __team__: 1 Ruby on Rails Developer, 5-6 C Developers for ARM Cortex  
   __duties__: 
-    * Leading C Developers: managing requirements, tasks, code review
     * Developing Training System control center using Ruby on Rails 4.2-5.0
-    
-
+    * Developing Application-level communication protocal between Rails server and device nodes
+    * Developing syntetic statistics to range soccer players according to exactness, quickness, and played balls count
+    * Leading C Developers: managing requirements, tasks, code review
 
 ## education
 
