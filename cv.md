@@ -60,9 +60,9 @@ email: yury.kotlyarov@gmail.com
   at the [Laboratory for Compositional Information Systems Development Methods](http://synthesis.ipi.ac.ru/synthesis),
   [Institute of Informatics Problems](http://www.ipiran.ru/english/main.asp) of the Russian Academy of Sciences
 
-* 1993-1998	Altai State Technical University, Barnaul, Russia
-  Department of Information Technologies and Business
-  B. B. A. in Management
+* 1993-1998	[Altai State Technical University](http://www.en.altstu.ru/), Barnaul, Russia  
+  Department of Information Technologies and Business  
+  B. B. A. in Management  
 
 ## languages
 
