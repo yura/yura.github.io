@@ -36,15 +36,11 @@ email: yury.kotlyarov@gmail.com
   __project__: Online analytic systems to calculate financial metrics of touristic investment projects for Far East of Russia [kamchatka.tesstech.ru](http://kamchatka.tesstech.ru)  
   __langs/techs__: Ruby on Rails 4.2-5.0, Daru, Spreadsheet, xirr, MySQL  
   __team__: just me  
-  __duties__: 
-    * 
 
 * [side project] __12/2016-01/2017__ Ruby on Rails Developer for [TESS Technology](http://tesstech.ru/)  
   __project__: Small analytical system for data from the Russian retail market for the biggest retailer in Russia [karusel.tesstech.ru](http://karusel.tesstech.ru) (required access)  
   __langs/techs__: Ruby on Rails 4.2, MySQL  
   __team__: just me  
-  __duties__: 
-    * 
 
 * [side project] __02/2016-05/2016__ Ruby on Rails Developer at hobby/fun project [CyberStor.es](http://cyberstor.es)  
   __project__: Try to enter to the market of online shopping platform with simple SaaS platform for small online shops  
