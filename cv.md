@@ -54,7 +54,11 @@ email: yury.kotlyarov@gmail.com
  
  * __12/2013-01/2014__ [Photo Heritage](http://ptm.brainhouse.ru) - a prototype for photo digitization startup. _Rails 4.0, MySQL, Flickr API, Sunspot/Solr, Google Maps API_
  
+ * WIP...
+ 
  * __01/2011-03/2011__ [Kids Shoes Shop](http://www.tolkot.ru) - online shoes shop. Rails 2.3-3.2
+ 
+ * WIP...
  
 
 ## education
