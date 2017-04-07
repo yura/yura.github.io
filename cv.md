@@ -60,7 +60,7 @@ email: yury.kotlyarov@gmail.com
  
  * __01/2011-03/2011__ [Kids Shoes Shop](http://www.tolkot.ru) - online shoes shop. __Rails 2.3-3.2__
  
- * WIP...
+ * __2010__ http://indada.ru online skilltoys shop and micro social network
  
  * __2006__ [Railfrog CRM](http://github.com/railfrog/railfrog) Contributor. __Rails 1.2-3__
  
