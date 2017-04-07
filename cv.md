@@ -24,7 +24,7 @@ email: yury.kotlyarov@gmail.com
 
 * __since 09/2015__ Co-founder, Ruby on Rails and C Developer at [Sport Automatics](http://footbot.eu)  
   __project__: Robotic Training System for Soccer Players [youtu.be/3ham_3GmhLk](https://youtu.be/3ham_3GmhLk)  
-  __langs/techs__: Ruby on Rails 4.2-5.0, MySQL, Redis (for Sidekiq and Action Cable), a bit of RSpec, C for ARM  
+  __langs/techs__: Ruby on Rails 4.2-5.0, MySQL, Redis (for Sidekiq and Action Cable), a bit of RSpec, C for ARM Cortex  
   __team__: 1 Ruby on Rails Developer, 5-6 C Developers for ARM Cortex  
   __duties__: 
     * Developing Training System control center using Ruby on Rails 4.2-5.0
@@ -54,13 +54,17 @@ email: yury.kotlyarov@gmail.com
  
  * __12/2013-01/2014__ [Photo Heritage](http://ptm.brainhouse.ru) - a prototype for photo digitization startup. _Rails 4.0, MySQL, Flickr API, Sunspot/Solr, Google Maps API_
  
- * WIP...
+
+__12.2013-01.2015__ platform for paintball & strikeball shops and social networks, e.g. http://p8nt.ru and http://elsoldado.ru 
+
+__04.2011-12.2013__ Online publishing platform for archives, books, and periodicals, e.g. http://interbrigades.inforost.org or http://elib.shpl.ru/
  
  * __01/2011-03/2011__ [Kids Shoes Shop](http://www.tolkot.ru) - online shoes shop. __Rails 2.3-3.2__
  
  * WIP...
  
  * __2006__ [Railfrog CRM](http://github.com/railfrog/railfrog) Contributor. __Rails 1.2-3__
+ 
  
  * **Java Age**
  
