@@ -54,10 +54,9 @@ email: yury.kotlyarov@gmail.com
  
  * __12/2013-01/2014__ [Photo Heritage](http://ptm.brainhouse.ru) - a prototype for photo digitization startup. _Rails 4.0, MySQL, Flickr API, Sunspot/Solr, Google Maps API_
  
+ * __12.2013-01.2015__ platform for paintball & strikeball shops and social networks, e.g. http://p8nt.ru and http://elsoldado.ru 
 
-__12.2013-01.2015__ platform for paintball & strikeball shops and social networks, e.g. http://p8nt.ru and http://elsoldado.ru 
-
-__04.2011-12.2013__ Online publishing platform for archives, books, and periodicals, e.g. http://interbrigades.inforost.org or http://elib.shpl.ru/
+ * __04.2011-12.2013__ Online publishing platform for archives, books, and periodicals, e.g. http://interbrigades.inforost.org or http://elib.shpl.ru/
  
  * __01/2011-03/2011__ [Kids Shoes Shop](http://www.tolkot.ru) - online shoes shop. __Rails 2.3-3.2__
  
