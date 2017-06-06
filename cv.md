@@ -29,7 +29,7 @@ email: yury.kotlyarov@gmail.com
   __duties__: 
     * Developing Training System control center using Ruby on Rails 4.2-5.0
     * Developing Application-level communication protocal between Rails server and device nodes
-    * Developing syntetic statistics to range soccer players according to exactness, quickness, and played balls count
+    * Developing synthetic statistics to range soccer players according to exactness, quickness, and played balls count
     * Leading C Developers: managing requirements, tasks, code review
 
 * [side project] __01/2017-02/2017__ Ruby on Rails Developer for [TESS Technology](http://tesstech.ru/)  
