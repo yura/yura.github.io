@@ -50,23 +50,17 @@ email: yury.kotlyarov@gmail.com
     * Developing SaaS platform which allows to create customizable online shops with ease
     * Placing [Magnolia Bakery](http://magnoliabakery.ru) on the platform
     
- * __01/2014-03/2015__ [BrainHouse CRM](http://crm.brainhouse.ru) - small CRM. _Rails 4.0, MySQL, Flickr API, Sunspot/Solr, Google Maps API_
+ * __01/2014-03/2015__ [BrainHouse CRM](http://crm.brainhouse.ru) - small CRM. _Rails 4.0, MySQL, Sunspot/Solr, Google Maps API_
  
- * __12/2013-01/2014__ [Photo Heritage](http://ptm.brainhouse.ru) - a prototype for photo digitization startup. _Rails 4.0, MySQL, Flickr API, Sunspot/Solr, Google Maps API_
+ * [side project] __12/2013-01/2014__ [Photo Heritage](http://ptm.brainhouse.ru) - a prototype for photo digitization startup. _Rails 4.0, MySQL, Flickr API, Sunspot/Solr, Google Maps API_
  
- * __12.2013-01.2015__ platform for paintball & strikeball shops and social networks, e.g. http://p8nt.ru and http://elsoldado.ru 
-
- * __04.2011-12.2013__ Online publishing platform for archives, books, and periodicals, e.g. http://interbrigades.inforost.org or http://elib.shpl.ru/
+ * [side project] __03.2012-12.2014__ platform for paintball & strikeball shops and social networks, e.g. http://p8nt.ru and http://elsoldado.ru 
  
- * __01/2011-03/2011__ [Kids Shoes Shop](http://www.tolkot.ru) - online shoes shop. __Rails 2.3-3.2__
+ * [side project] __01/2011-03/2011__ [Kids Shoes Shop](http://www.tolkot.ru) - online shoes shop. __Rails 2.3-3.2__
  
- * __2010__ http://indada.ru online skilltoys shop and micro social network
+ * [side project] __05.2010__ http://indada.ru online skilltoys shop and micro social network
  
- * __2006__ [Railfrog CRM](http://github.com/railfrog/railfrog) Contributor. __Rails 1.2-3__
- 
- 
- * **Java Age**
- 
+ * __05.2009-07.2013__ Online publishing platform for archives, books, and periodicals, e.g. http://interbrigades.inforost.org or http://elib.shpl.ru/ and fast book scanner
 
 ## education
 
