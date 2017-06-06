@@ -28,7 +28,7 @@ email: yury.kotlyarov@gmail.com
   __team__: 1 Ruby on Rails Developer, 5-6 C Developers for ARM Cortex  
   __duties__: 
     * Developing Training System control center using Ruby on Rails 4.2-5.0
-    * Developing Application-level communication protocal between Rails server and device nodes
+    * Developing Application-level communication protocol between Rails server and device nodes
     * Developing synthetic statistics to range soccer players according to exactness, quickness, and played balls count
     * Leading C Developers: managing requirements, tasks, code review
 
