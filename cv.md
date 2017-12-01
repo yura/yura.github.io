@@ -28,8 +28,8 @@ email: yury.kotlyarov@gmail.com
   __team__: 1 Ruby on Rails Developer, 5-6 C Developers for ARM Cortex  
   __duties__: 
     * Developing Training System control center using Ruby on Rails 4.2-5.0
-    * Developing Application-level communication protocol between Rails server and device nodes
-    * Developing synthetic statistics to range soccer players according to exactness, quickness, and played balls count
+    * Developing The application-level communication protocol between Rails server and device nodes
+    * Developing synthetic statistics for range soccer players according to exactness, quickness, and played balls count
     * Leading C Developers: managing requirements, tasks, code review
 
 * [side project] __01/2017-02/2017__ Ruby on Rails Developer for [TESS Technology](http://tesstech.ru/)  
@@ -60,7 +60,7 @@ email: yury.kotlyarov@gmail.com
  
  * [side project] __05.2010__ http://indada.ru online skilltoys shop and micro social network
  
- * __05.2009-07.2013__ Online publishing platform for archives, books, and periodicals, e.g. http://interbrigades.inforost.org or http://elib.shpl.ru/ and fast book scanner
+ * __05.2009-07.2013__ Online publishing platform for archives, books, and periodicals, e.g. http://interbrigades.inforost.org or http://elib.shpl.ru/ and fast book scanner https://youtu.be/NjU0HJV9TtQ
 
 ## education
 
