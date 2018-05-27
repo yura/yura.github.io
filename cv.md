@@ -78,3 +78,7 @@ email: yury.kotlyarov@gmail.com
 ## languages
 
 Active: English, Russian (native)
+
+## hobby
+
+Haskell, Machine Learning, Deep Learning 
