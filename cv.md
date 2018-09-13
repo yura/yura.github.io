@@ -22,7 +22,7 @@ email: yury.kotlyarov@gmail.com
 ## professional experience
 
 * [side project] __08/2018-09/2018__ Ruby Developer   
-  __project__: (RPLiDAR gem)[https://rubygems.org/gems/rplidar] Ruby implementation of SLAMTEK RPLiDAR driver  
+  __project__: [RPLiDAR gem](https://rubygems.org/gems/rplidar) Ruby implementation of SLAMTEK RPLiDAR driver  
 
 * [side project] __01/2017-02/2017__ Ruby on Rails Developer for [TESS Technology](http://tesstech.ru/)  
   __project__: Online analytic systems to calculate financial metrics of touristic investment projects for Far East of Russia [kamchatka.tesstech.ru](http://kamchatka.tesstech.ru)  
