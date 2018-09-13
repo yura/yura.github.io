@@ -19,8 +19,15 @@ email: yury.kotlyarov@gmail.com
 * Strong experience in the developing distributed multi-tier software for Internet/intranet environments based using Java/J2EE and Ruby on Rails
 * Customer focused, self-motivated, hard-working team player
 
-
 ## professional experience
+
+* [side project] __08/2018-09/2019__ Ruby on Rails Developer   
+  __project__: (RPLiDAR gem)[https://rubygems.org/gems/rplidar] Ruby implementation of SLAMTEK RPLiDAR driver  
+
+* [side project] __01/2017-02/2017__ Ruby on Rails Developer for [TESS Technology](http://tesstech.ru/)  
+  __project__: Online analytic systems to calculate financial metrics of touristic investment projects for Far East of Russia [kamchatka.tesstech.ru](http://kamchatka.tesstech.ru)  
+  __langs/techs__: Ruby on Rails 4.2-5.0, Daru, Spreadsheet, xirr, MySQL  
+  __team__: just me  
 
 * __since 09/2015__ Co-founder, Ruby on Rails and C Developer at [Sport Automatics](http://footbot.eu)  
   __project__: Robotic Training System for Soccer Players [youtu.be/3ham_3GmhLk](https://youtu.be/3ham_3GmhLk)  
